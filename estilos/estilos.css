@@ -11,9 +11,12 @@ body{
     text-align: center;
 }
 .form{
+    margin: 0 auto;
     color: white;
     background-color: black;
     max-width: 400px;
+    padding: 2rem;
+    margin-top: 2rem;
 }
 .campo{
 
